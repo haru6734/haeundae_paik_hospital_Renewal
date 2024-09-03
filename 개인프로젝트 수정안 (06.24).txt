@@ -1,0 +1,13 @@
+0배경 사진 - intro_bg, box1, box2, box3
+
+배경 색조 - intro_bg, box1, box2, box3
+
+섹션3 색조 - intro_bg, box1, box2, box3
+
+섹션3 set time 함수로 스와이퍼처럼
+
+섹션3 전체적으로 올리기
+
+대제목 폰트 - 고딕 ( 둥글둥글하게 ) >> 적용중
+
+0파비콘 배경 없이
